@@ -64,8 +64,4 @@ public class Headphones {
 	public void setPqty(int pqty) {
 		this.pqty = pqty;
 	}
-	
-	
-	
-
 }
